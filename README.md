@@ -19,3 +19,6 @@ Technologies Used:
 HTML
 CSS
 JavaScript
+
+Authors
+
